@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Eshop</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="error_invalid_email">Email Address Invalid</string>
+    <string name="error_invalid_password">Password too short</string>
+    <string name="error_incorrect_password">Wrong Password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_username_or_password">Wrong Username or Password</string>
+    <string name="general_error">Something went wrong</string>
+    <string name="permission_rationale">"Contacts permission is used for email auto-complete."
+    </string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_main2">Products</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Shopping Cart</string>
+    <string name="title_notifications">User Profile</string>
+    <string name="title_activity_shopping_cart">Shopping Cart</string>
+    <string name="title_activity_user_profile">User Profile</string>
+    <string name="checkout_button">Checkout</string>
+    <string name="buy_button">Buy</string>
+    <string name="total_price">Total Price:</string>
+    <string name="logout_button">Logout</string>
+</resources>
